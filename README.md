@@ -1,5 +1,5 @@
-# JQ
-some easy jq knowledge
+# JQ-knowledge
+easy JQ knowledge
 ### each()
 >$(selector).each(function(index,element))
 1. index - 选择器的 index 位置
